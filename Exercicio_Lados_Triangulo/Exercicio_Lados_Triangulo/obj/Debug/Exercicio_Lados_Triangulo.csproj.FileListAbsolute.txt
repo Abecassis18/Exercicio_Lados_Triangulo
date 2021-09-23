@@ -1,0 +1,10 @@
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\bin\Debug\Exercicio_Lados_Triangulo.exe.config
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\bin\Debug\Exercicio_Lados_Triangulo.exe
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\bin\Debug\Exercicio_Lados_Triangulo.pdb
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\obj\Debug\Exercicio_Lados_Triangulo.csproj.AssemblyReference.cache
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\obj\Debug\Exercicio_Lados_Triangulo.Form1.resources
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\obj\Debug\Exercicio_Lados_Triangulo.Properties.Resources.resources
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\obj\Debug\Exercicio_Lados_Triangulo.csproj.GenerateResource.cache
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\obj\Debug\Exercicio_Lados_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\obj\Debug\Exercicio_Lados_Triangulo.exe
+C:\Users\abeca\Desktop\Exercicio_Lados_Triangulo\Exercicio_Lados_Triangulo\obj\Debug\Exercicio_Lados_Triangulo.pdb
